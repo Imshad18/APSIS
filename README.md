@@ -1,5 +1,7 @@
 # APSIS
 
+**[Download APSIS.apk](../../raw/main/APSIS.apk)** — install directly, no Play Store.
+
 A 2D orbital mechanics game. Build a rocket part by part, fly it on real
 two-body physics, and work your way out through a solar system of planets,
 moons and black holes.
